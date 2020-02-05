@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonethon.github.io</id>
-    <title>英语怪咖</title>
-    <updated>2020-02-05T08:05:43.834Z</updated>
+    <title>学习怪咖</title>
+    <updated>2020-02-05T08:32:35.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jonethon.github.io"/>
     <link rel="self" href="https://jonethon.github.io/atom.xml"/>
     <subtitle>把优秀变成一种习惯</subtitle>
     <logo>https://jonethon.github.io/images/avatar.png</logo>
     <icon>https://jonethon.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 英语怪咖</rights>
+    <rights>All rights reserved 2020, 学习怪咖</rights>
     <entry>
         <title type="html"><![CDATA[NO.1 极限与连续共舞]]></title>
         <id>https://jonethon.github.io/post/no1-ji-xian-yu-lian-xu-gong-wu</id>
