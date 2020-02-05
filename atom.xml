@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonethon.github.io</id>
     <title>学习怪咖</title>
-    <updated>2020-02-05T13:17:31.560Z</updated>
+    <updated>2020-02-05T13:31:00.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jonethon.github.io"/>
     <link rel="self" href="https://jonethon.github.io/atom.xml"/>
@@ -10,6 +10,81 @@
     <logo>https://jonethon.github.io/images/avatar.png</logo>
     <icon>https://jonethon.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 学习怪咖</rights>
+    <entry>
+        <title type="html"><![CDATA[A-No.1 病死率、发病率，用英语怎么表达？]]></title>
+        <id>https://jonethon.github.io/post/a-no1-bing-si-lu-fa-bing-lu-yong-ying-yu-zen-me-biao-da</id>
+        <link href="https://jonethon.github.io/post/a-no1-bing-si-lu-fa-bing-lu-yong-ying-yu-zen-me-biao-da">
+        </link>
+        <updated>2020-02-05T13:26:47.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="知识点">【知识点】</h3>
+<p><mark>病死率（case fatality rate，CFR）</mark> 指一段时间内患有某个病症的所有患者中，因该病死亡人数所占的比例。病死率的计算方式就是，用该病患者死亡人数除以该病所有患者人数。与之相关的还有一个概念就是，<mark>发病率（incidence rate）</mark>，指特定人群在一定时间内发生某个病症新病例的频率。</p>
+<h3 id="原文">【原文】</h3>
+<p>2月4日下午，国家卫生健康委举行新闻发布会，介绍了新型冠状病毒感染的肺炎重症患者的医疗救治情况。<br>
+The current <mark>case fatality rate (CFR)</mark> of the novel coronavirus infection on the Chinese mainland has dropped to 2.1 percent, Chinese health authorities said Tuesday.</p>
+<pre><code>国家卫健委表示，全国新型冠状病毒感染的肺炎患者病死率已降至2.1%。
+</code></pre>
+<p>The CFR remained stable after an initial 2.3 percent recorded at the beginning of the outbreak, said Jiao Yahui with the National Health Commission at a daily press briefing on the epidemic.</p>
+<pre><code>国家卫健委医政医管局副局长焦雅辉在发布会上表示，全国的病死率在疫情初期的时候是2.3%，目前基本上是稳定的。
+</code></pre>
+<p>The CFR in Hubei province was 3.1 percent, as the majority of the deaths occurred in the province, which saw a death toll of 414, over 97 percent of the total.</p>
+<pre><code>死亡患者主要集中在湖北省，累计414人，占全国97%，湖北省确诊病例的病死率为3.1%。
+</code></pre>
+<p>In Wuhan, the capital city of Hubei, the CFR stood at 4.9 percent and the death toll was 313, accounting for 74 percent of the national total.</p>
+<pre><code>武汉市的死亡人数是313人，占全国死亡的74%，武汉确诊病例病死率是4.9%。
+</code></pre>
+<p>The fatality rate outside Hubei was only 0.16 percent.</p>
+<pre><code>如果除掉湖北省，其他省份的病死率是0.16%。
+</code></pre>
+<p>More than 80 percent of the deaths were elderly people over 60 years old, and over 75 percent had at least one underlying disease such as cardiovascular diseases, diabetes and tumors.</p>
+<pre><code>死亡患者以高龄为主，80%以上都是60岁以上的老年人，75%以上有一种以上的基础疾病，如心血管病、糖尿病以及肿瘤等。
+</code></pre>
+<h3 id="相关词汇">【相关词汇】</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">序号</th>
+<th style="text-align:center">英文</th>
+<th style="text-align:center">中文</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1</td>
+<td style="text-align:center">virus carrier</td>
+<td style="text-align:center">病毒携带者</td>
+</tr>
+<tr>
+<td style="text-align:center">2</td>
+<td style="text-align:center">asymptomatic carrier</td>
+<td style="text-align:center">无症状携带者</td>
+</tr>
+<tr>
+<td style="text-align:center">3</td>
+<td style="text-align:center">super spreader</td>
+<td style="text-align:center">超级传播者</td>
+</tr>
+<tr>
+<td style="text-align:center">4</td>
+<td style="text-align:center">recovery rate</td>
+<td style="text-align:center">治愈率</td>
+</tr>
+<tr>
+<td style="text-align:center">5</td>
+<td style="text-align:center">transmissibility; infectivity</td>
+<td style="text-align:center">传染性</td>
+</tr>
+<tr>
+<td style="text-align:center">6</td>
+<td style="text-align:center">pathogenicity</td>
+<td style="text-align:center">致病性</td>
+</tr>
+</tbody>
+</table>
+<p><code>来源：</code><a href="https://language.chinadaily.com.cn/a/202002/05/WS5e3a30dea310128217275114.html">china daily</a><br>
+<code>收集整理：</code><a href="https://jonethon.github.io/">英语怪咖</a><br>
+<code>特别声明：</code>本文来源于<code>china daily</code>，由<code>英语怪咖</code>整理，如需转载，请与稿件来源方联系，如产生任何问题与本网无关；本网所发布的文章、图片等，版权归原作者所有，仅供学习与研究，如果侵权，请提供版权证明，以便尽快删除。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[E-高效背单词Day.1]]></title>
         <id>https://jonethon.github.io/post/e-gao-xiao-bei-dan-ci-no1</id>
