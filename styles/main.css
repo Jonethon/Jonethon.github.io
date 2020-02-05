@@ -1961,7 +1961,15 @@ body {
     .nav-item:hover {
       background: #f9f9f9;
       color: rgba(0, 0, 0, 0.98);
-    }.markdownIt-TOC a {
+    }.muse .sidebar, .mist .sidebar {
+        right: 0 !important;
+        left: auto !important;
+      }
+      .drawer-box {
+        right: 30px !important;
+        left: auto !important;
+      }
+      .markdownIt-TOC a {
       color: #eee;
       border-bottom-color: #eee;
     }.markdownIt-TOC a:hover {
