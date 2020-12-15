@@ -1981,10 +1981,7 @@ body {
     .active-hidden > a {
       color: #fc6423;
       border-bottom-color: #fc6423;
-    }.site-meta {
-        background: transparent !important;
-        background-image: url(\media\images\custom-headerImg.jpg) !important;
-      }
+    }
       .site-meta {
         background: #000 !important;
       }
