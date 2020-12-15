@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonethon.github.io</id>
     <title>冷星城</title>
-    <updated>2020-12-15T12:26:54.883Z</updated>
+    <updated>2020-12-15T13:17:58.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jonethon.github.io"/>
     <link rel="self" href="https://jonethon.github.io/atom.xml"/>
@@ -252,7 +252,7 @@
 <p>  注意：有些函数是不能进行复合的，如：<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>y</mi><mo>=</mo><mi>a</mi><mi>r</mi><mi>c</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>u</mi><mo separator="true">,</mo><mi>u</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn></mrow><annotation encoding="application/x-tex">y=arcsinu,u=x^2+3</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.85396em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">a</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mord mathdefault">c</span><span class="mord mathdefault">s</span><span class="mord mathdefault">i</span><span class="mord mathdefault">n</span><span class="mord mathdefault">u</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">u</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.897438em;vertical-align:-0.08333em;"></span><span class="mord"><span class="mord mathdefault">x</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">3</span></span></span></span>，因为前者的定义域与后者的值域的交集为空集，无意义！</p>
 <h2 id="4-初等函数">4 初等函数</h2>
 <p>  初等函数是由<strong>幂函数、指数函数、对数函数、三角函数、反三角函数</strong>与<strong>常数</strong>经过有限次的有理运算（加、减、乘、除、有理数次乘方、有理数次开方及有限次函数复合所产生，并且能用一个<strong>解析式</strong>表示的函数。</p>
-<p>分段函数一般不是初等函数</p>
+<p>  分段函数一般不是初等函数!</p>
 ]]></content>
     </entry>
     <entry>
@@ -261,7 +261,7 @@
         <link href="https://jonethon.github.io/post/markdown-gao-xiao-ma-zi-shen-qi/">
         </link>
         <updated>2020-12-15T09:24:48.000Z</updated>
-        <content type="html"><![CDATA[<p>请参考<a href="https://blog.csdn.net/lenggege1/article/details/103704570">博客</a></p>
+        <content type="html"><![CDATA[<p>由于排版不加，请参考我的个人博客：<a href="https://blog.csdn.net/lenggege1/article/details/103704570">Markdown——高效码字神器</a></p>
 ]]></content>
     </entry>
 </feed>
